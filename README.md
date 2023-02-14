@@ -8,7 +8,7 @@ I have been working as a backend engineer and machine learning engineer for the 
 
 * 🌍  I'm based in Lahore, Pakistan
 * ✉️  You can contact me at [ahmedjaved701@gmail.com](mailto:ahmedjaved701@gmail.com)
-* 🚀  I'm currently working on [Vesgo](http://www.vesgo.io)
+* 🚀  I'm currently working on FastAPI, PostgreSQL
 * 🧠  I'm learning GraphQL
 * 🤝  I'm open to collaborating on Open Source
 * ⚡  I'm also an seasonal artist.
