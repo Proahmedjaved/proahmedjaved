@@ -1,10 +1,10 @@
 Hi 👋 My name is Ahmed Javed
 ============================
 
-Python Developer
+Software Engineer
 ----------------
 
-I have been working as a backend engineer and machine learning engineer for the last 2 years. I can develop REST APIs, along with complex backend logic that will provide a seamless integration experience. I also have DevOps experience on Digital Ocean, AWS and Vultr. I can create complex application architectures.
+With over four years of experience as a Backend Engineer, Software Architect, and Technical Team Lead, I specialize in developing robust REST APIs and complex backend logic to ensure seamless integration experiences. My expertise extends to DevOps, with a proven track record of deploying and managing scalable application architectures on platforms such as Digital Ocean, AWS, and Vultr. I am adept at creating intricate application architectures and leading technical teams to meet diverse client needs.
 
 * 🌍  I'm based in Lahore, Pakistan
 * ✉️  You can contact me at [ahmedjaved701@gmail.com](mailto:ahmedjaved701@gmail.com)
